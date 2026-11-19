@@ -1,1 +1,1 @@
-3# Practica - Maquina Arcade
+Practica - Maquina Arcade
