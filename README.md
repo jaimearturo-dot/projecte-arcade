@@ -1,3 +1,3 @@
 # Projecto Arcade 
-## Hecho por Jaime Pino
-**
+## Estudiante - Jaime Arturo Pino Arzuaga
+**Resumen del projecto
