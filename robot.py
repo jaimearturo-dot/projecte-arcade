@@ -1,5 +1,5 @@
 import random
-
+import main
 
 class robot:
     name = "machine"
